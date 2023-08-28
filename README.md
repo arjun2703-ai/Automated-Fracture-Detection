@@ -12,6 +12,8 @@ Results :
 
 ![image](https://github.com/arjun2703-ai/Automated-Fracture-Detection/assets/94297858/f690bb58-e418-4ad8-8a0a-a0a07850f054)
 
+
 ![image](https://github.com/arjun2703-ai/Automated-Fracture-Detection/assets/94297858/4d6faac6-f4ca-4a08-8b1a-5bcb2b122efa)
+
 
 ![image](https://github.com/arjun2703-ai/Automated-Fracture-Detection/assets/94297858/408cbae7-ca74-4d39-8dc2-57f7c6516f27)
